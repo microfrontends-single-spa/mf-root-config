@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
+    "single-spa-vue": "https://cdn.jsdelivr.net/npm/single-spa-vue@2.1.0/dist/umd/single-spa-vue.min.js",
+    "@portafolio/root-config": "//localhost:9000/portafolio-root-config.js",
+    "@portafolio/mf-menu": "//localhost:4201/main.js",
+    "@portafolio/mf-header": "//localhost:4203/main.js",
+    "@portafolio/mf-advertising": "//localhost:4204/main.js",
+    "@portafolio/mf-styles": "//localhost:4202/styles.js",
+    "@portafolio/mf-whatsapp": "//localhost:8084/app.js"
+  }
+}

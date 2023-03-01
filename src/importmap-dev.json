@@ -1,0 +1,12 @@
+{
+    "imports": {
+      "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
+      "single-spa-vue": "https://cdn.jsdelivr.net/npm/single-spa-vue@2.1.0/dist/umd/single-spa-vue.min.js",
+      "@portafolio/root-config": "https://mf-root-config.netlify.app/portafolio-root-config.js",
+      "@portafolio/mf-menu": "https://mf-menu.netlify.app/main.js",
+      "@portafolio/mf-header": "https://mf-header-app.netlify.app/main.js",
+      "@portafolio/mf-advertising": "https://mf-advertising.netlify.app/main.js",
+      "@portafolio/mf-styles": "https://mf-styles.netlify.app/styles.js",
+      "@portafolio/mf-whatsapp": "https://mf-whatsapp-app.netlify.app/app.js"
+    }
+  }
