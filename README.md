@@ -1,6 +1,6 @@
 # Microfrontend Root-Config
 
-<p style='text-align: justify;'> Este proyecto es un microfrontend desarrollado en angular versión 15.1.2 y con single-spa en su version 4.0.0. Su principal función es ser el orquestador de los micro-frontends de la aplicación. </p>
+<p style='text-align: justify;'> Este proyecto es un microfrontend desarrollado en webpack versión 5.75.0 y con single-spa en su version 5.9.3. Su principal función es ser el orquestador de los micro-frontends de la aplicación. </p>
 
 
 ## Importmap JSON
