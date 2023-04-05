@@ -26,7 +26,7 @@ Las rutas deben ser cambiados segun el dominio de nuestra aplicación, es decir,
 
 ## Servidor de desarrollo
 
-<p style='text-align: justify;'> Primero debemos clonar el código del <a href="https://github.com/lamatcalderon/mf-root-config">repositorio</a> y con una terminal instalar las dependencias</p> 
+<p style='text-align: justify;'> Primero debemos clonar el código del <a href="https://github.com/microfrontends-single-spa/mf-root-config">repositorio</a> y con una terminal instalar las dependencias</p> 
 
 ```sh
 npm i
